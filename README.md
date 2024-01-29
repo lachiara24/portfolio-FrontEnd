@@ -2,6 +2,8 @@
 
 Sitio web: https://frontend-portfolio-d0f60.web.app/
 
+Si no se visualiza la información es por un corte de coneción con el backend ya que es un servicio gratuito.
+
 ![alt text](https://firebasestorage.googleapis.com/v0/b/frontend-portfolio-d0f60.appspot.com/o/readme%2Fvista-principal.png?alt=media&token=410b055e-0c2d-4925-acea-7e5ac0fa1a4c)
 
 ## Inicio de sesión
